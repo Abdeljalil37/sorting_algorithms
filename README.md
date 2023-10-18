@@ -164,7 +164,7 @@ Function Prototype:
     <ul>
     <li><a href="https://www.github.com/Abdeljalil37">Github</a></li>
     <li><a href="https://www.twitter.com/AbdeljalilElm">Twitter</a></li>
-    <li><a href="mailto:abdo.elmouakkit@gmail.com">e-mail</a></li>
+    <li><a href="mailto:abdo.elmouakkit@gmail.com">E-mail</a></li>
     </ul>
 </details>
 <details>
@@ -172,6 +172,6 @@ Function Prototype:
     <ul>
     <li><a href="https://www.github.com/shixyman">Github</a></li>
     <li><a href="https://twitter.com/yourkhi">Twitter</a></li>
-    <li><a href="mailto:shixymanflowx@gmail.com">e-mail</a></li>
+    <li><a href="mailto:shixymanflowx@gmail.com">E-mail</a></li>
     </ul>
 </details>
