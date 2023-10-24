@@ -8,7 +8,6 @@
  * @src: source buffer
  * @dst: destination buffer
  * @size: size of buffers
- *
  * Return: No Return
  */
 void copy(int *src, int *dst, int size)
@@ -18,6 +17,7 @@ void copy(int *src, int *dst, int size)
 	for (i = 0; i < size; i++)
 		dst[i] = src[i];
 }
+
 /**
  * merge - merges two sets of data in ascending order
  * but they must already be sorted before hand
